@@ -1,0 +1,8 @@
+﻿Game Settings & Parameters for Minesweeper 2.0;;;;;;;;;;;;;;;
+6;Buttons;New Game;Stats;Settings;Credits;Quit;Easy;Medium;Hard;Back;Reset;Save;X;Restart;Bot
+0;main_menu;5;0;1;2;3;4;;;;;;;;
+0;difficulty_screen;4;5;6;7;8;;;;;;;;;
+0;stats_screen;2;9;8;;;;;;;;;;;
+0;settings_screen;2;10;8;;;;;;;;;;;
+0;game_screen;3;11;12;13;;;;;;;;;;
+0;credits_screen;1;8;;;;;;;;;;;;
